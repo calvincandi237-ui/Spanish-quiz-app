@@ -1,0 +1,37 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Spanish Quiz",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Quizo",
+  "start_url": "/",
+  "theme_color": "#0B1120",
+  "icons": [
+    {
+      "src": "https://calvincandi237-ui.github.io/favicon.png",
+      "type": "image/png",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://calvincandi237-ui.github.io/apple-touch-icon.png",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "com.spanishquiz"
+}
